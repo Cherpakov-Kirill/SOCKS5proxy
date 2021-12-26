@@ -1,8 +1,8 @@
 # SOCKS5 proxy server
 
 Welcome to the SOCKS5proxy.
-There are code for the SOCKS5 proxy server on Java
-Date 26.12.2021
+There are code for the SOCKS5 proxy server on Java.
+Date: 26.12.2021
 
 ## Execution
 
