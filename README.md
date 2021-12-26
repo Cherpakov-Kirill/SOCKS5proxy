@@ -10,7 +10,7 @@ Program needs one program-arg: port for starting server.
 
 ## Connection
 
-curl --socks5-hostname localhost:1026 https://www.google.com/
+1. curl --socks5-hostname localhost:1026 https://www.google.com/
 
-On set SOCKS5 proxy in Firefox browser.
+2. Set SOCKS5 proxy in Firefox browser.
 ![Firefox settings](https://i.postimg.cc/cLHySzvW/Screenshot-from-2021-12-26-13-41-28.png)
